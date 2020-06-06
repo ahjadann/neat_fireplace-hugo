@@ -1,6 +1,7 @@
 ---
-title: "Second Post"
+title: "stayhome shopping spree"
 date: 2020-06-05T14:45:45+02:00
+lastmod: 2020-06-06T15:45:45+02:00
 draft: false
 toc: false
 images:
