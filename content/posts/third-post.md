@@ -1,7 +1,7 @@
 ---
 title: "Terminal overhaul"
 date: 2020-07-19T09:50:00+02:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
