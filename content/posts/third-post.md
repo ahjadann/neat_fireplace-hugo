@@ -1,6 +1,7 @@
 ---
 title: "Terminal overhaul"
 date: 2020-07-19T09:50:00+02:00
+lastmod: 2020-07-20T22:40:00+02:00
 draft: false
 toc: false
 images:
@@ -37,6 +38,10 @@ tags:
 - [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) (status bar themes)
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) (git gutter)
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) (theme)
+
+## iTerm2 color scheme
+
+<https://github.com/MartinSeeler/iterm2-material-design>
 
 ## Howtos
 
