@@ -1,7 +1,7 @@
 ---
 title: "Hugo blog post workflow"
 date: 2020-07-19T11:02:40+02:00
-lastmod: 2020-07-19T11:39:40+02:00
+lastmod: 2020-10-04T13:39:40+02:00
 draft: false
 toc: false
 images:
@@ -13,7 +13,7 @@ tags:
 
 [This is the project setup](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
-**Step 1**: `$ hugo posts/<post_name>.md`
+**Step 1**: `$ hugo new posts/<post_name>.md`
 
 **Step 2**: Edit post and preview with `$ hugo server -D`
 
