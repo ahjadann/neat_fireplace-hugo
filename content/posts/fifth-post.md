@@ -1,5 +1,5 @@
 ---
-title: "Fifth Post"
+title: "Hugo theme update workflow"
 date: 2020-10-04T15:49:35+02:00
 lastmod: 2020-10-04T16:07:00+02:00
 draft: false
