@@ -1,8 +1,8 @@
 ---
 title: "Creative phase"
 date: 2021-03-12T19:28:20+01:00
-draft: true
-toc: false
+draft: false
+toc: true
 images:
 tags:
   - creativity
