@@ -55,9 +55,9 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
 
-  description = "Just another hugo page."
-  keywords = ""
-  images = [""]
+  description = "Ahjadann's neat fireplace."
+  keywords = "blog, fireplace"
+  images = ["/img/triangoli_portrait.png"]
 
   homeSubtitle = "And I was like: 'Nope.'"
 
