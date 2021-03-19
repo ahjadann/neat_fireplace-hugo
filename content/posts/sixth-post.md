@@ -4,6 +4,8 @@ date: 2021-03-12T07:28:57+01:00
 draft: false
 toc: false
 images:
+categories:
+  - terminal
 tags:
   - zsh
   - iterm2

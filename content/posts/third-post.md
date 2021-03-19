@@ -5,6 +5,8 @@ lastmod: 2020-07-29T7:00:00+02:00
 draft: false
 toc: false
 images:
+categories:
+  - terminal
 tags:
   - zsh
   - iterm2
@@ -51,4 +53,3 @@ Spaceship prompt, fonts, iterm2, oh-my-zsh:
 - <https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7>
 - <https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961>
 - <https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c>
-
