@@ -6,5 +6,3 @@ draft: false
 ---
 
 38/M/GER Geography, the outdoors, street art, film, music & positive leadership ಠ_ಠ.
-
-![Picture of mountains as triangles](/img/ahjadann_portrait.jpeg "Ahjadann")
