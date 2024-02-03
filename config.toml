@@ -36,7 +36,7 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
+[params.author.name]
   name = "Tobi"
 
 [blackfriday]
@@ -107,7 +107,8 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = " "
-    logoText     = "$ cd /home/"
+    # logoText     = "$ cd /home/"
+    logoText = "Home"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -135,10 +136,6 @@ disableHugoGeneratorInject = false
     maxWidth = "340px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/ahjadann"
-
 #  [[params.social]]
 #    name = "email"
 #    url  = "mailto:nobody@example.com"

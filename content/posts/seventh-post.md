@@ -14,8 +14,7 @@ series:
 tags:
   - creativity
   - minimalistic
-  - bicycle
-  - cinelli
+  - gravel bike
 ---
 
 _There have been some creative vibes in November 2020 which led to fiddling around with

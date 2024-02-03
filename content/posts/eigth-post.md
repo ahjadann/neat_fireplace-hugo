@@ -3,8 +3,8 @@ title: "Creative phase II - Minimal"
 date: 2021-03-13T15:15:54+01:00
 draft: false
 toc: true
-image: "/img/cerchio.png"
 images:
+  - "/img/cerchio.png"
 categories:
   - artsy
 series:
